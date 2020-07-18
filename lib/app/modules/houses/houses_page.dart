@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:harry_potter_app/models/houses_model.dart';
-import 'package:harry_potter_app/pages/house_details_page.dart';
+import 'package:harry_potter_app/app/modules/housesDetail/house_details_page.dart';
 
 class HousesPage extends StatefulWidget {
   HousesPage({Key key}) : super(key: key);

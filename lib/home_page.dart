@@ -1,9 +1,10 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:harry_potter_app/pages/characters_page.dart';
-import 'package:harry_potter_app/pages/houses_page.dart';
-import 'package:harry_potter_app/pages/spells_page.dart';
+import 'package:harry_potter_app/app/modules/characters/characters_page.dart';
+import 'package:harry_potter_app/app/modules/sortingHat/sorting_hat_page.dart';
+
+import 'app/modules/houses/houses_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
@@ -13,7 +14,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  final tabs = [HousesPage(), CharactersPage(), SpellsPage()];
+  final tabs = [HousesPage(), CharactersPage(), SortingHatPage()];
 
   int currentIndex = 0;
 
@@ -32,7 +33,7 @@ class _HomePageState extends State<HomePage> {
         items: <Widget>[
           Icon(Icons.home),
           Icon(Icons.people),
-          Icon(Icons.star),
+          Icon(Icons.help),
         ],
       ),
       appBar: AppBar(

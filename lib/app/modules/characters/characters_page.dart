@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:harry_potter_app/controllers/characters_controller.dart';
+import 'package:harry_potter_app/app/modules/characters/characters_controller.dart';
 import 'package:harry_potter_app/models/character_model.dart';
-import 'package:harry_potter_app/pages/character_details_page.dart';
+import 'package:harry_potter_app/app/modules/charactersDetail/character_details_page.dart';
 import 'package:harry_potter_app/repositories/characters_repository.dart';
 
 class CharactersPage extends StatefulWidget {
