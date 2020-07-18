@@ -1,6 +1,6 @@
 # Hogwarts Small Guide
 
-![](hogwartsguidegif.gif)
+![](lib\assets\images\hogwartsguidegif.gif)
 
 ## About this project
 
