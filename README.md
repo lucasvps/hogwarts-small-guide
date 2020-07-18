@@ -1,16 +1,16 @@
-# harry_potter_app
+# Hogwarts Small Guide
 
-A new Flutter project.
+## About this project
 
-## Getting Started
+This is an app made to be a small guide about Hogwarts, the school from the famous Harry Potter's World.
+The app consume two open api, available at : [potterApi](https://www.potterapi.com) and [HP-API](http://hp-api.herokuapp.com)
 
-This project is a starting point for a Flutter application.
+## Why ?
 
-A few resources to get you started if this is your first Flutter project:
+The reason that I made this app was to improve my skills on the mobile development using Flutter.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Functionalities
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Provides information about the four houses of Hogwarts.
+Provides information about 25 five hogwarts' characters.
+You can figure out what house the sorting hat is going to put you.
