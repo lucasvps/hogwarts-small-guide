@@ -1,8 +1,10 @@
 # Hogwarts Small Guide
 
-![](lib\assets\images\hogwartsguidegif.gif)
+<img src='lib/assetsimages/hp0.jpeg' heigth='300' width='250'> <img src='lib/assetsimages/hp1.jpeg' heigth='300' width='250'> 
+<img src='lib/assetsimages/hp2.jpeg' heigth='300' width='250'> <img src='lib/assetsimages/hp3.jpeg' heigth='300' width='250'>
+<img src='lib/assetsimages/hp4.jpeg' heigth='300' width='250'> <img src='lib/assetsimages/hp5.jpeg' heigth='300' width='250'>
 
-## About this project
+## About this project :
 
 This is an app made to be a small guide about Hogwarts, the school from the famous Harry Potter's World.
 The app consume two open api, available at : [potterApi](https://www.potterapi.com) and [HP-API](http://hp-api.herokuapp.com)
@@ -11,8 +13,8 @@ The app consume two open api, available at : [potterApi](https://www.potterapi.c
 
 The reason that I made this app was to improve my skills on the mobile development using Flutter.
 
-## Functionalities
+## Functionalities :
 
-Provides information about the four houses of Hogwarts.
-Provides information about 25 five hogwarts' characters.
-You can figure out what house the sorting hat is going to put you.
+-Provides information about the four houses of Hogwarts.
+-Provides information about 25 five hogwarts' characters.
+-You can figure out what house the sorting hat is going to put you.
