@@ -1,8 +1,6 @@
 # Hogwarts Small Guide
 
-<img src='lib/assetsimages/hp0.jpeg' heigth='300' width='250'> <img src='lib/assetsimages/hp1.jpeg' heigth='300' width='250'> 
-<img src='lib/assetsimages/hp2.jpeg' heigth='300' width='250'> <img src='lib/assetsimages/hp3.jpeg' heigth='300' width='250'>
-<img src='lib/assetsimages/hp4.jpeg' heigth='300' width='250'> <img src='lib/assetsimages/hp5.jpeg' heigth='300' width='250'>
+![](hogwartsguidegif.gif)
 
 ## About this project :
 
