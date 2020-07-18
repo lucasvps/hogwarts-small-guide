@@ -1,6 +1,6 @@
 # Hogwarts Small Guide
 
-![](hogwartsguidegif.gif)
+<img src="lib/assets/images/hogwartsguidegif.gif" heigth='300' width='250'/>
 
 ## About this project :
 
