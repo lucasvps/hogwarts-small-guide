@@ -1,5 +1,7 @@
 # Hogwarts Small Guide
 
+![](hogwartsguidegif.gif)
+
 ## About this project
 
 This is an app made to be a small guide about Hogwarts, the school from the famous Harry Potter's World.
